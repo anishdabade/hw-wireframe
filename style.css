@@ -49,12 +49,12 @@ body {
 	font-family: Arial;
   	font-size: 18px;
 	color:#777;
-	width: 65%;
-	width: 402px;
+	width: 72%;
 	padding: 20px;
 	position: absolute;
 	margin: 0 auto;
 	height: 8px;
+	left:60px;
 	
 }
 
@@ -83,7 +83,6 @@ body {
 	color:#777;
 	padding: 20px;
 	width:36.2%;
-	
 	float:right;
 	height: 200px;
 	margin-right: 115px;
